@@ -91,6 +91,10 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
 PRODUCT_PACKAGES += \
     GalleryGoPrebuilt
 
+# Long Screenshot
+PRODUCT_PACKAGES += \
+    StitchImage
+
 # Offline charger
 PRODUCT_PACKAGES += \
     charger_res_images \
